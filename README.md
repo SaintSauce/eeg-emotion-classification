@@ -9,3 +9,5 @@ Preprocessing the labeled data to suit the requirements of machine learning algo
 Implementing and training a Recurrent Neural Network using TensorFlow and Keras.
 Evaluating the trained model on test data.
 Using the model to predict emotions on new, unseen data.
+
+Full test accuracy (noEarlyStopping) > 96.721%
